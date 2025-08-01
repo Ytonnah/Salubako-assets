@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 98312c5646320384f9809289752f92a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7973661971081419199
+    second: roberto_sprt-Sheet_0
+  - first:
+      213: -2733626292959807403
+    second: roberto_sprt-Sheet_1
+  - first:
+      213: -1899728261132539969
+    second: roberto_sprt-Sheet_2
+  - first:
+      213: 5839349098797596081
+    second: roberto_sprt-Sheet_3
+  - first:
+      213: 2673570509591938402
+    second: roberto_sprt-Sheet_4
+  - first:
+      213: 2487158409043531288
+    second: roberto_sprt-Sheet_5
+  - first:
+      213: -6928980781817891120
+    second: roberto_sprt-Sheet_6
+  - first:
+      213: -1599423283162705187
+    second: roberto_sprt-Sheet_7
+  - first:
+      213: 648979095519326961
+    second: roberto_sprt-Sheet_8
+  - first:
+      213: -5435518221352634464
+    second: roberto_sprt-Sheet_9
+  - first:
+      213: 1178094550552657238
+    second: roberto_sprt-Sheet_10
+  - first:
+      213: -8216022144400529144
+    second: roberto_sprt-Sheet_11
+  - first:
+      213: -4151039944405217916
+    second: roberto_sprt-Sheet_12
+  - first:
+      213: 4930117938348287753
+    second: roberto_sprt-Sheet_13
+  - first:
+      213: 3900018858251733600
+    second: roberto_sprt-Sheet_14
+  - first:
+      213: -9152529538113732616
+    second: roberto_sprt-Sheet_15
+  - first:
+      213: -3491754244198506692
+    second: roberto_sprt-Sheet_16
+  - first:
+      213: 8130807469273180401
+    second: roberto_sprt-Sheet_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: roberto_sprt-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 130
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb95951015328ae60800000000000000
+      internalID: 7973661971081419199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roberto_sprt-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 128
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5587673be55301ad0800000000000000
+      internalID: -2733626292959807403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roberto_sprt-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 129
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7ac61363fc2a5e0800000000000000
+      internalID: -1899728261132539969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roberto_sprt-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 130
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdf3513119890150800000000000000
+      internalID: 5839349098797596081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roberto_sprt-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 128
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265003a963e6a1520800000000000000
+      internalID: 2673570509591938402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roberto_sprt-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 129
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8165a2f3569248220800000000000000
+      internalID: 2487158409043531288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roberto_sprt-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 66
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d67c34b0b057df90800000000000000
+      internalID: -6928980781817891120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roberto_sprt-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 64
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd219918ff4bdc9e0800000000000000
+      internalID: -1599423283162705187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roberto_sprt-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 65
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f275178c03a10900800000000000000
+      internalID: 648979095519326961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roberto_sprt-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 66
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7fc1ee9f82194b0800000000000000
+      internalID: -5435518221352634464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roberto_sprt-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 64
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65db38d70ce695010800000000000000
+      internalID: 1178094550552657238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roberto_sprt-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 65
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8096348d363dafd80800000000000000
+      internalID: -8216022144400529144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roberto_sprt-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d0549e92b8466c0800000000000000
+      internalID: -4151039944405217916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roberto_sprt-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 2
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907e700e42c4b6440800000000000000
+      internalID: 4930117938348287753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roberto_sprt-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a4b670d76af1630800000000000000
+      internalID: 3900018858251733600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roberto_sprt-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 2
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fff57490eeabf080800000000000000
+      internalID: -9152529538113732616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roberto_sprt-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 2
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fd597d30cca8fc0800000000000000
+      internalID: -3491754244198506692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roberto_sprt-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8ee1f705e66d070800000000000000
+      internalID: 8130807469273180401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      roberto_sprt-Sheet_0: 7973661971081419199
+      roberto_sprt-Sheet_1: -2733626292959807403
+      roberto_sprt-Sheet_10: 1178094550552657238
+      roberto_sprt-Sheet_11: -8216022144400529144
+      roberto_sprt-Sheet_12: -4151039944405217916
+      roberto_sprt-Sheet_13: 4930117938348287753
+      roberto_sprt-Sheet_14: 3900018858251733600
+      roberto_sprt-Sheet_15: -9152529538113732616
+      roberto_sprt-Sheet_16: -3491754244198506692
+      roberto_sprt-Sheet_17: 8130807469273180401
+      roberto_sprt-Sheet_2: -1899728261132539969
+      roberto_sprt-Sheet_3: 5839349098797596081
+      roberto_sprt-Sheet_4: 2673570509591938402
+      roberto_sprt-Sheet_5: 2487158409043531288
+      roberto_sprt-Sheet_6: -6928980781817891120
+      roberto_sprt-Sheet_7: -1599423283162705187
+      roberto_sprt-Sheet_8: 648979095519326961
+      roberto_sprt-Sheet_9: -5435518221352634464
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

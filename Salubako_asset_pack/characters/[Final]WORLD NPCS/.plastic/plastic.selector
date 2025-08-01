@@ -1,0 +1,4 @@
+repository "Project Salubako/[Final]WORLD NPCS@18968218279231@cloud"
+  path "/"
+    br "/main"
+    co "/main"
