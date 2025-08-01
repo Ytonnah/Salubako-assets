@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: fa53bf29af79ca64995c0ca49d8b70f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8190325956977644281
+    second: roberto_sprt-Sheet_pv_0
+  - first:
+      213: 5101469359562257638
+    second: roberto_sprt-Sheet_pv_1
+  - first:
+      213: -7225928445138452741
+    second: roberto_sprt-Sheet_pv_2
+  - first:
+      213: -8342288140773610718
+    second: roberto_sprt-Sheet_pv_3
+  - first:
+      213: 4102252186855990485
+    second: roberto_sprt-Sheet_pv_4
+  - first:
+      213: 7030322953900140235
+    second: roberto_sprt-Sheet_pv_5
+  - first:
+      213: 5293338539499828313
+    second: roberto_sprt-Sheet_pv_6
+  - first:
+      213: -4485209082999168705
+    second: roberto_sprt-Sheet_pv_7
+  - first:
+      213: 929374976477260444
+    second: roberto_sprt-Sheet_pv_8
+  - first:
+      213: -8201477668290030310
+    second: roberto_sprt-Sheet_pv_9
+  - first:
+      213: 2935792988612167781
+    second: roberto_sprt-Sheet_pv_10
+  - first:
+      213: -8954648425850897443
+    second: roberto_sprt-Sheet_pv_11
+  - first:
+      213: 2419943796059959694
+    second: roberto_sprt-Sheet_pv_12
+  - first:
+      213: -7639883032822832684
+    second: roberto_sprt-Sheet_pv_13
+  - first:
+      213: 771594138215472564
+    second: roberto_sprt-Sheet_pv_14
+  - first:
+      213: 7554169520940119610
+    second: roberto_sprt-Sheet_pv_15
+  - first:
+      213: 8807289119930458420
+    second: roberto_sprt-Sheet_pv_16
+  - first:
+      213: 1665414037083930621
+    second: roberto_sprt-Sheet_pv_17
+  - first:
+      213: 5995796269358406171
+    second: roberto_sprt-Sheet_pv_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: roberto_sprt-Sheet_pv_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 194
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2505c4012e9a170800000000000000
+      internalID: 8190325956977644281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roberto_sprt-Sheet_pv_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 194
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e47f319a5f0cc640800000000000000
+      internalID: 5101469359562257638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roberto_sprt-Sheet_pv_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 194
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfeb12f1d5858bb90800000000000000
+      internalID: -7225928445138452741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roberto_sprt-Sheet_pv_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 194
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b2c33a22d3a3c80800000000000000
+      internalID: -8342288140773610718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roberto_sprt-Sheet_pv_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 192
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4ee9811a02ee830800000000000000
+      internalID: 4102252186855990485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roberto_sprt-Sheet_pv_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 129
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc62e737a79b09160800000000000000
+      internalID: 7030322953900140235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roberto_sprt-Sheet_pv_6
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 128
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954b5ca3b57b57940800000000000000
+      internalID: 5293338539499828313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roberto_sprt-Sheet_pv_7
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 129
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31aa784a1651c1c0800000000000000
+      internalID: -4485209082999168705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roberto_sprt-Sheet_pv_8
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 130
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a6018fd9dc5ec00800000000000000
+      internalID: 929374976477260444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roberto_sprt-Sheet_pv_9
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 128
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a151644938f7e2e80800000000000000
+      internalID: -8201477668290030310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roberto_sprt-Sheet_pv_10
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 65
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5688f4c2b280eb820800000000000000
+      internalID: 2935792988612167781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roberto_sprt-Sheet_pv_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 66
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb75a053b2bab380800000000000000
+      internalID: -8954648425850897443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roberto_sprt-Sheet_pv_12
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 64
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e817094af0e559120800000000000000
+      internalID: 2419943796059959694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roberto_sprt-Sheet_pv_13
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 65
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1af070cdea9f590800000000000000
+      internalID: -7639883032822832684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roberto_sprt-Sheet_pv_14
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 66
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd5b17d7c045ba00800000000000000
+      internalID: 771594138215472564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roberto_sprt-Sheet_pv_15
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36f7b4d72dc5d860800000000000000
+      internalID: 7554169520940119610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roberto_sprt-Sheet_pv_16
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 2
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4312e93aac6c93a70800000000000000
+      internalID: 8807289119930458420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roberto_sprt-Sheet_pv_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff36543e3dbc1710800000000000000
+      internalID: 1665414037083930621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roberto_sprt-Sheet_pv_18
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 2
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a58bc90f8553350800000000000000
+      internalID: 5995796269358406171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      roberto_sprt-Sheet_pv_0: 8190325956977644281
+      roberto_sprt-Sheet_pv_1: 5101469359562257638
+      roberto_sprt-Sheet_pv_10: 2935792988612167781
+      roberto_sprt-Sheet_pv_11: -8954648425850897443
+      roberto_sprt-Sheet_pv_12: 2419943796059959694
+      roberto_sprt-Sheet_pv_13: -7639883032822832684
+      roberto_sprt-Sheet_pv_14: 771594138215472564
+      roberto_sprt-Sheet_pv_15: 7554169520940119610
+      roberto_sprt-Sheet_pv_16: 8807289119930458420
+      roberto_sprt-Sheet_pv_17: 1665414037083930621
+      roberto_sprt-Sheet_pv_18: 5995796269358406171
+      roberto_sprt-Sheet_pv_2: -7225928445138452741
+      roberto_sprt-Sheet_pv_3: -8342288140773610718
+      roberto_sprt-Sheet_pv_4: 4102252186855990485
+      roberto_sprt-Sheet_pv_5: 7030322953900140235
+      roberto_sprt-Sheet_pv_6: 5293338539499828313
+      roberto_sprt-Sheet_pv_7: -4485209082999168705
+      roberto_sprt-Sheet_pv_8: 929374976477260444
+      roberto_sprt-Sheet_pv_9: -8201477668290030310
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
